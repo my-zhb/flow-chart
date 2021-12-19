@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T09:39:49.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Px1Wf8QAer6-FmXqIRtZ" version="16.0.0" type="github"><diagram id="U2riRqg98eDPrSQ_zjuk" name="第 1 页">dZHBDoIwDIafZnfYDOgZUS+eOHheWGVLBl3GDOjTC9kQFzTpof36d//WEVa049lyI68oQBOaiJGwI6E03VFK5kjE05M8C6CxSgTRCir1ggCTQB9KQB8JHaJ2ysSwxq6D2kWMW4tDLLujjl0Nb2ADqprrLb0p4aSne5qv/AKqkYtzmh18p+WLOLykl1zg8IVYSVhhEZ3P2rEAPS9v2YufO/3pfi5moXM/BqZkPXsqoh9i5Rs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-19T09:40:15.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="l93CiQsYjjQOzCT-Qxlt" version="16.0.0" type="github">
+  <diagram id="U2riRqg98eDPrSQ_zjuk" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-1" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-2" value="Actor 1" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-1">
+          <mxGeometry y="40" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-3" value="Phase 1" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-2">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-4" value="Phase 2" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-2">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-5" value="Phase 3" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-2">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-6" value="Actor 2" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-1">
+          <mxGeometry y="160" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-7" value="" style="swimlane;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-6">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-8" value="" style="swimlane;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-6">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-9" value="" style="swimlane;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-6">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-10" value="Actor 3" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-1">
+          <mxGeometry y="280" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-11" value="" style="swimlane;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-10">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-12" value="" style="swimlane;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-10">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUmxO2yT0oOJaS9KuROH-13" value="" style="swimlane;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="WUmxO2yT0oOJaS9KuROH-10">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
